@@ -12,7 +12,7 @@ Fitur utama meliputi autentikasi menggunakan Laravel Sanctum, sistem role (admin
 ## Cara Install & Run
 
 1. **Clone/Download Repository**
-   Pastikan Anda berada di direktori proyek.
+   Pastikan berada di direktori proyek.
 
 2. **Install Dependencies**
    Buka terminal di folder proyek dan jalankan:
@@ -40,7 +40,7 @@ Fitur utama meliputi autentikasi menggunakan Laravel Sanctum, sistem role (admin
    Perintah ini sangat disarankan agar semua data awal langsung tersedia (termasuk User Admin dan Product untuk kebutuhan test order).
 
 5. **Akun Test yang Tersedia (Otomatis)**
-   Setelah menjalankan perintah di atas, Anda bisa login menggunakan akun berikut:
+   Setelah menjalankan perintah di atas, login menggunakan akun berikut:
    - **Email:** `admin@mail.com`
    - **Password:** `password`
    - **Role:** `admin`
@@ -61,4 +61,4 @@ php artisan test
 ## Postman Collection
 
 File Postman collection telah disediakan di dalam folder proyek ini dengan nama `Postman_Collection.json`.
-Anda bisa mengimpor file tersebut langsung ke aplikasi Postman Anda untuk melakukan uji coba endpoint (Login, CRUD Produk, Order, dll).
+Untuk melakukan uji coba endpoint (Login, CRUD Produk, Order, dll).
